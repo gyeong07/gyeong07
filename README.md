@@ -1,5 +1,5 @@
 ### SooGyeong😎
-<hr>
+---
 <!--
 **gyeong07/gyeong07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
