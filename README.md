@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@soogyeong0726)](https://velog.io/@soogyeong0726)
+---
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeong07&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeong07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
