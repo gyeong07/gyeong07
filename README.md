@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://https://velog.io/@gyeong07)](https://https://velog.io/@gyeong07)
+[![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@gyeong07)](https://velog.io/@gyeong07)
 ---
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeong07&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
